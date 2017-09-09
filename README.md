@@ -22,7 +22,7 @@ to install it.
 Janus provides a way to convert an audio-stream obtained from the webcam into a WebRTC stream which is understood by many modern browsers. Unfortunately, Janus is not available as a debian package as of now. Following the instructions from [here](https://www.rs-online.com/designspark/building-a-raspberry-pi-2-webrtc-camera), you need to do:
 
      sudo aptitude install libmicrohttpd-dev libjansson-dev \
-        libnice-dev libssl-dev libsrtp-dev libsofia-sip-ua-dev \
+        libnice-dev libssl-dev libsrtp-dev libsrtp2-dev libsofia-sip-ua-dev \
         libglib2.0-dev libopus-dev libogg-dev libini-config-dev \
         libcollection-dev pkg-config gengetopt libtool automake dh-autoreconf
      cd ~
