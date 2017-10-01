@@ -1,3 +1,11 @@
+# Deprecation Notice
+
+*NOTE*: This repo has been deprecated and the functionality is now fully absorbed into my other project:
+
+https://github.com/srinathava/raspberry-pi-sleep-monitor
+
+Please be advised that I am no longer actively maintaining this.
+
 # Streaming Live Video and Audio from a Raspberry Pi to a browser
 
 This setup shows how to a stream a live video/audio stream from a Rasbperry Pi to any browser with a pretty low latency. This setup was tested with a Logitech C270 camera connected to a Raspberry Pi 2. 
